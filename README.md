@@ -1,6 +1,12 @@
 # quickstart-cypress-javascript
 Automação Web utilizando Cypress com JavaScript
 
+Requisitos
+- Node.js
+- VS code
+
+Comandos de intalação do cypress 3.6.0
+- npm install cypress@3.6.0 
 
 Comandos para executar os testes
 - npm run open
