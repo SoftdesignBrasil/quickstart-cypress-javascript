@@ -1,0 +1,18 @@
+{
+  "name": "ProjetoCypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "Cypress open",
+    "cypress:run":"Cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.6.0",
+    "cypress-xpath": "^1.6.0"
+  }
+}
