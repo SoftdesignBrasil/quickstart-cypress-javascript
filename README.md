@@ -5,7 +5,7 @@ Requisitos
 - Node.js
 - VS code
 
-Comandos de intalação do cypress 3.6.0
+Comandos de instalação do cypress 3.6.0
 - npm install cypress@3.6.0 
 
 Comandos para executar os testes
