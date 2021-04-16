@@ -1,1 +1,13 @@
+#cypress attachments
+/cypress/videos
+/cypress/screenshots
+
+.vscode
+
+#logs
+*.log
+
+# node-waf configuration
+.lock-wscript
 node_modules
+build/Release
